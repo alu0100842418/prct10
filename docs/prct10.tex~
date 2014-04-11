@@ -28,10 +28,8 @@ Euclides precisa en sus Elementos los pasos al límite necesarios e investiga un
 lados de los polígonos regulares y en demostrar la convergencia del procedimiento.
 
 \subsection{Arquímedes}
-Arquímedes reúne y amplía estos resultados. Prueba que el área de un círculo es la mitad del producto de su radio por la circunferencia y que la
+Arquímedes reúne y amplía estos resultados.\footnote{Trabajo sobre PI} Prueba que el área de un círculo es la mitad del producto de su radio por la circunferencia y que la
 relación del perímetro al diámetro está comprendida entre 3,14084 y 3,14285.
-
-\footnote{Trabajo sobre PI}
 
 \section{Enfoque matemático}
 A pesar de tratarse de un número irracional continúa siendo averiguada la máxima cantidad posible de decimales. Los cincuenta primeros son:
