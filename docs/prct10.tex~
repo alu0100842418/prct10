@@ -1,0 +1,59 @@
+\documentclass[spanish,11pt,a4paper]{article}
+\usepackage[spanish]{babel}
+\usepackage[utf8]{inputenc}
+
+\begin{document}
+ 
+\title{Número Pi}
+\author{Sandra Beatriz Jiménez Carballo}
+\date{11 de Abril de 2014}
+\maketitle
+
+\begin{abstract}
+ El número Pi~\cite{Lamport:LDP94} es la constante que relaciona el perímetro de una circunferencia con la amplitud de su diámetro: $\pi = L/D$.
+ Este no es un número exacto sino que es de los llamados irracionales, ya que tiene infinitas cifras decimales.
+\end{abstract}
+
+\section{Historia}
+Ya en la antigüedad, se insinuó que todos los círculos conservaban una estrecha dependencia entre el contorno y su radio pero tan sólo desde el
+siglo XVII la correlación se convirtió en un dígito\cite{gibaldMLA:2009} y fue identificado con el nombre "Pi" (de periphereia, denominación que los griegos daban
+al perímetro de un círculo).
+
+Esta notación fue usada por primera vez en 1706 por el matemático galés William Jones y popularizada por el matemático Leonard Euler en su obra
+"Introducción al cálculo infinitesimal" de 1748. Fue conocida anteriormente como constante de Ludoph (en honor al matemático Ludolph van Ceulen)
+o como constante de Arquímedes (No se debe confundir con el número de Arquímedes).
+
+\subsection{Euclides}
+Euclides precisa en sus Elementos los pasos al límite necesarios e investiga un sistema consistente en doblar, al igual que Antiphon, el número de
+lados de los polígonos regulares y en demostrar la convergencia del procedimiento.
+
+\subsection{Arquímedes}
+Arquímedes reúne y amplía estos resultados. Prueba que el área de un círculo es la mitad del producto de su radio por la circunferencia y que la
+relación del perímetro al diámetro está comprendida entre 3,14084 y 3,14285.
+
+\footnote{Trabajo sobre PI}
+
+\section{Enfoque matemático}
+A pesar de tratarse de un número irracional continúa siendo averiguada la máxima cantidad posible de decimales. Los cincuenta primeros son:
+$\pi = 3,14159265358979323846264338327950288419716939937510$ 
+
+\subsection{Definiciones}
+$\pi$ es:
+
+\begin{itemize}
+\item La relación entre la longitud de una circunferencia y su diámetro.
+\item El área de un círculo unitario.
+\item El menor número real x positivo tal que $\sin(x) = 0$
+\end{itemize}
+
+\subsection{Geometría}
+
+\begin{itemize}
+\item Longitud de la circunferencia de radio r: $ C = 2 \pi r $
+\item Área del círculo de radio r: $ A = \pi r $
+\end{itemize}
+
+\bibliographystyle{plain}
+\bibliography{prct10}
+
+\end{document}
